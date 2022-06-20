@@ -1,0 +1,17 @@
+{
+  "orders": [
+    {
+      "name": "Bobbie",
+      "email": "bobs@gmail.com",
+      "good": "Yamaha"
+    },
+    {
+      "name": "Luna",
+      "email": "luns@gmail.com",
+      "good": "Focal"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
